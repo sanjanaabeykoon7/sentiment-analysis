@@ -77,5 +77,7 @@ pip install pandas numpy scikit-learn nltk matplotlib seaborn wordcloud
 - Expand to other domains (product reviews, social media)
 - Hyperparameter tuning for better accuracy
 
+
 Just built as a machine learning learning project.
-```
+
+---
